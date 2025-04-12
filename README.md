@@ -1,4 +1,4 @@
-# P.I.T.S. - Personalized Intelligent Tutoring System
+# P.I.T.S. - Personalized Intelligent Tutoring System(Edumentor)
 
 ## Description
 P.I.T.S. (Personalized Intelligent Tutoring System) is a project designed to provide personalized tutoring experiences using advanced AI technologies. The system aims to help users study various subjects by providing tailored study materials, quizzes, and interactive chat support. Key features include:
