@@ -1,4 +1,4 @@
-# P.I.T.S. - Personalized Intelligent Tutoring System(Edumentor)
+# Edumentor – Personalized Intelligent Tutoring System
 
 ## Description
 P.I.T.S. (Personalized Intelligent Tutoring System) is a project designed to provide personalized tutoring experiences using advanced AI technologies. The system aims to help users study various subjects by providing tailored study materials, quizzes, and interactive chat support. Key features include:
@@ -12,7 +12,7 @@ P.I.T.S. (Personalized Intelligent Tutoring System) is a project designed to pro
 To set up the project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhishek-Gawade-programmer/pits_online.git
+   git clone https://github.com/hitesh11364/pits_online.git
    ```
 2. Navigate to the project directory:
    ```bash
