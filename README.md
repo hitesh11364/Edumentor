@@ -12,7 +12,7 @@ P.I.T.S. (Personalized Intelligent Tutoring System) is a project designed to pro
 To set up the project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hitesh11364/pits_online.git
+   git clone https://github.com/hitesh11364/Edumentor.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -37,5 +37,4 @@ To set up the project, follow these steps:
 4. Take quizzes to assess your knowledge.
 5. Use the AI-powered chat support for additional help and guidance.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
