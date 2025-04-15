@@ -16,7 +16,7 @@ To set up the project, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd pits_online
+   cd Edumentor
    ```
 3. Install the required dependencies:
    ```bash
